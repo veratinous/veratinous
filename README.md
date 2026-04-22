@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Magbuwe Vera Ogheneovo</h1>
-<h3 align="center">A passionate AI/Machine Learning enthusiast with a strong background in Python and data analysis. With experience in web design and a focus on solving real-world problems through data-driven approaches.</h3>
+<h3 align="center">A passionate Machine Learning engineer with a strong background in Python and data analysis. With experience in web design and a focus on solving real-world problems through data-driven approaches.</h3>
 
 <br></br>
 
@@ -14,7 +14,7 @@
 
 <h1 align='center'> About Me, </h1>
 
-<p align='center'> I am <b>Magbuwe Vera Ogheneovo</b> a recent Chemical Engineering graduate and a passionate AI and Machine Learning enthusiast with a strong foundation in Python and data analysis. I’m a professional web designer and actively involved in promoting STEM education to young students. I’m now seeking opportunities to apply my skills in AI, data science, to contribute meaningfully in the tech sector.</p>
+<p align='center'> I am <b>Magbuwe Vera Ogheneovo</b> a recent Chemical Engineering graduate and a passionate AI and Machine Learning engineer with a strong foundation in Python and data analysis. I’m a web designer and actively involved in promoting STEM education to young students. I’m now seeking opportunities to apply my skills in AI, data science, to contribute meaningfully in the tech sector.</p>
 
 <hr>
 
